@@ -1,0 +1,69 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; 
+}
+
+.logo-navbar {
+    height: 100px ; 
+    width: auto; 
+}
+
+
+.navbar-brand img {
+    margin-right: 10px; 
+
+}
+
+
+
+.product-list {
+    margin-top: 2rem;
+}
+
+.card {
+    transition: transform 0.3s ease; 
+    margin-bottom: 2rem;
+}
+
+.card:hover {
+    transform: translateY(-5px); 
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    color: #555;
+}
+
+
+.contenedor{
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+    justify-content: center;
+}
+
+.contenedor div{
+    margin: 15px;
+}
+
+.footer {
+    background-color: #343a40; 
+    color: #fff; 
+    padding: 2rem 0;
+}
+
+.footer p, .footer a {
+    color: #ccc; 
+}
+
+.footer-links {
+    list-style: none;
+    padding-left: 0;
+}
+
+
